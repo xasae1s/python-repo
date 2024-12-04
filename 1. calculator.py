@@ -10,6 +10,6 @@ Multiply=num1*num2
 print("The Product Of", num1, "and",num2 ,"is:", Multiply)
 fdivision=num1//num2
 print("The Floadivision Of",num1, "and",num2, "is:", fdivision)
-modulus=num1**num2
+modulus=num1%num2
 print("The Modulus Of", num1, "and",num2, "is:",modulus)
 print("\nTHANKS FOR USING MY CALCULATOR")
