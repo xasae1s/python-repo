@@ -9,5 +9,6 @@ elif(time1<timestamp1):
 else:
     print("YOU ARE FIRED")
 
+#DOES NOT WORK.
 
 
